@@ -15,7 +15,7 @@ app.use(cors());
 const dbConfig = {
   host: 'localhost', // Cambia esto si tu base de datos está en otro servidor
   user: 'root', // Reemplaza con tu nombre de usuario de MySQL
-  password: 'toby123?ba', // Reemplaza con tu contraseña de MySQL
+  password: 'root', // Reemplaza con tu contraseña de MySQL
   database: 'dbventas', // Reemplaza con el nombre de tu base de datos
   port:'3306'
 };
